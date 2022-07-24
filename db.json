@@ -1,0 +1,15 @@
+{   
+    "questions": [
+        {
+            "text":"What is the capital of India?",
+            "options":["New Delhi", "Mumbai", "Kolkata", "Ahmedabad"],
+            "correct":"New Delhi"
+        },
+        {
+            "text":"What is the capital of Italy?",
+            "options":["Rome", "Venice", "Ravenna", "Brundisium"],
+            "correct":"Rome"
+        }
+       
+    ]   
+}
