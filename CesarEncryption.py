@@ -17,7 +17,6 @@ def cifrado_cesar(texto, pasos):
 
     return ''.join(resultado)
 
-asaq
 texto = 'Python es tremendo'
 print(cifrado_cesar(texto, 1))
 print(cifrado_cesar(texto, 2))
