@@ -5,7 +5,6 @@ Please write a binary search function which searches an item in a sorted list. T
 """
 Escriba una función de búsqueda binaria que busque un elemento en una lista ordenada. La función debe devolver el índice del elemento a buscar en la lista.
 """
-asd
 import math
 def bin_search(li, element):
     bottom = 0
