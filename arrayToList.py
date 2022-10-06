@@ -7,7 +7,7 @@ print(isinstance(lenguajes, list))
 print(isinstance(lenguajes, str))
 
 print()
-
+asd
 resultado = ast.literal_eval(lenguajes)
 
 print(type(resultado))
